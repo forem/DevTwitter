@@ -1,7 +1,7 @@
 DevTwitter Chrome Extension
 ==========
 
-Bringing [dev.to](https://dev.to) headlines and other [@ThePracticalDev](https://twitter.com/thepracticaldev) goodies into your Twitter browsing experience.
+Bringing [dev.to](https://dev.to) headlines to your Twitter browsing experience.
 
 ![Alt text](/images/tall-screenshot-annotated.png?raw=true "Screenshot")
 
