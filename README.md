@@ -8,7 +8,7 @@ Bringing [dev.to](https://dev.to) headlines and other [@ThePracticalDev](https:/
 Installing
 -----
 
-Go to [The Chrome Store](https://chrome.google.com/webstore/detail/dev-twitter/fhlipionhojfohecgljcljbpblojlaef) to download the extension.
+Go to **[The Chrome Store](https://chrome.google.com/webstore/detail/dev-twitter/fhlipionhojfohecgljcljbpblojlaef)** to download the extension.
 
 To access development releases, simply download or clone this code and load as an unpacked extension.
 
@@ -18,8 +18,7 @@ Unpacked Extension
 - If you downloaded the code, unzip the file.
 - Open (chrome://extensions/) or select the menu `Window > Extensions`.
 - Enable the developer mode at top right.
-- Click `Load unpacked extension...` and select the source code folder.
-- Storify!
+- Click `Load unpacked extension...` and select the **`chrome-extension`** folder.
 
 
 Features
