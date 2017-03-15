@@ -1,4 +1,4 @@
-Dev Twitter Chrome Extension
+DevTwitter Chrome Extension
 ==========
 
 Bringing [dev.to](https://dev.to) headlines and other [@ThePracticalDev](https://twitter.com/thepracticaldev) goodies into your Twitter browsing experience.
