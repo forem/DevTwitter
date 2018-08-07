@@ -32,3 +32,4 @@ Future features
 Twitter is a great way to connect and collaborate with other developers, and it would be fun to build in features that did that. The [dev.to](https://dev.to) team will be thinking of ways to do this, but contributions are super welcome.
 
 It is important that this extension does not experience "intrusiveness creep" as we build more features, so one key item will be a simple mechanism to configure which features are displayed for any given user. So be mindful of that if you have feature ideas.
+
