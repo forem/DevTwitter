@@ -12,7 +12,8 @@ fetch('https://dev.to/api/articles')
 	console.log(err);
 });
 
-setInterval(function(){
+var intervalId = setInterval(function(){
+	console.log('interval');
 	if (links) {
 		insertLinks(links);
 	}
@@ -20,11 +21,11 @@ setInterval(function(){
 
 function insertLinks(data){
 	var trendsBox = document.getElementsByClassName("Trends")[0];
-	var devBox = document.getElementById("dev-to-trends");
-	if (!trendsBox || devBox) return;
+	if (!trendsBox) return;
 	var newItem = document.createElement("DIV");
 	newItem.innerHTML = trendsHTML(listHTML(data));
 	insertAfter(newItem, trendsBox);
+	clearInterval(intervalId);
 }
 
 function insertAfter(newNode, referenceNode) {
