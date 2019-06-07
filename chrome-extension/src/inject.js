@@ -13,7 +13,6 @@ fetch('https://dev.to/api/articles')
 });
 
 var intervalId = setInterval(function(){
-	console.log('interval');
 	if (links) {
 		insertLinks(links);
 	}
